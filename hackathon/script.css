@@ -1,0 +1,25 @@
+.design{
+    background-color: antiquewhite;
+   margin: 4rem;
+   padding: 1rem;
+   border-radius: 1rem;
+   font-family:  'Poppins', sans-serif;
+    transition: all 0.1s;
+    box-shadow: 15px 13px 8px 0px rgba(4,14,23,0.46);
+    background-image: linear-gradient(to right, #6beeee, #6be7f1, #6edff2, #74d8f1, #7cd0ee, #7ad1ef, #79d2f0, #77d3f1, #6bddf5, #62e8f7, #5df2f5, #5ffbf1);
+
+}
+body{
+    background-image: radial-gradient(circle, #d0dbe3, #a8c4ea, #9ca6eb, #ab80dd, #c64bb9);    
+}
+.design:hover{
+    transform: scale(1.1);
+}
+.getbook{
+    display: grid;
+    background-image: url(//cdn.wallpapersafari.com/98/14/bxuly2.jpg);
+} 
+
+.details{
+    display:flex;
+}
